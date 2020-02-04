@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Git community!
+
+Hans here, editing my first repository's draft branch. 
